@@ -24,7 +24,7 @@ app.use('/api/v1/emp', empRoutes);
 
 app.route("/")
     .get((req, res) => {
-        res.send("<h1>Assignment – I (10%) COMP 3123 – Full Stack Development – I</h1>")
+        res.send("<h1>Assignment – I part 2 (10%) COMP 3123 – Full Stack Development – I</h1>")
     })
 
 
